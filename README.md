@@ -64,7 +64,7 @@ Output to sort the elements in the list using the Selection Sort algorithm.
 ![output](./selectionoutput.png)
 
 Output to sort the elements in the list using the Insertion Sort algorithm.
-1[output](./insertionoutput-1.png)
+![output](./insertionoutput-1.png)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
